@@ -1,7 +1,7 @@
 # 计算机应用数学课程作业   
 郑志浩 11521075 浙江大学计算机科学与技术学院   
    
-Exercise:   
+Exercises:   
 curve_fitting.py是Homework1关于曲线拟合的code;   
 PCA.py是Homework2关于实现PCA的code，optdigits_org.tra是其中的数据集;   
 MoG.py是Homework3关于实现MoG在2D的情况下的code;    
